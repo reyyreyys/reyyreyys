@@ -1,17 +1,17 @@
 # 👋 Hi, I'm [Your Name]!
 
-![Header Image](https://via.placeholder.com/1000x300) <!-- Replace with your own banner image link -->
+![Header Image](https://i.imgur.com/8tHUqQo.gif) <!-- Replace with your own banner image link -->
 
-Welcome to my GitHub profile! I'm a [your role, e.g., software developer, data scientist, etc.] with a passion for [your interests, e.g., building user-friendly apps, solving complex problems, or contributing to open-source projects].
+Welcome to my GitHub profile! I'm a Information Technology / ARVR student at Singapore Polytechnic with a passion for Immersive Simulation Projects.
 
 ---
 
 ## 🚀 About Me
 
-- 💻 I specialize in [skills or tech stack, e.g., full-stack development, cloud solutions, or data analysis].
-- 🎓 I'm currently learning [e.g., machine learning, Rust, advanced React patterns].
-- 🌍 I'm open to collaborating on [your focus areas, e.g., exciting open-source projects, startups, or hackathons].
-- 📧 You can reach me at **[your email address]**.
+- 💻 I specialize in Project Development.
+- 🎓 I'm currently learning Azure Web App Deploment & Development.
+- 🌍 I'm open to collaborating on the AuthINC Project.
+- 📧 You can reach me at **reyes.ng1260@gmail.com**.
 
 ---
 
@@ -19,10 +19,10 @@ Welcome to my GitHub profile! I'm a [your role, e.g., software developer, data s
 
 Here are some tools and technologies I work with regularly:
 
-- **Languages:** [e.g., JavaScript, Python, C#, etc.]
-- **Frontend:** [e.g., React, Vue.js, Svelte, etc.]
-- **Backend:** [e.g., Node.js, Django, ASP.NET, etc.]
-- **Database:** [e.g., MySQL, MongoDB, Firebase, etc.]
+- **Languages:** JavaScript, Python, C#
+- **Frontend:** React, Vue.js, Svelte
+- **Backend:** Node.js, Django, ASP.NET
+- **Database:** MySQL, Postgres, MongoDB, Firebase
 - **Other Tools:** AWS S3, Cloudinary, Playwright, Git
 
 ---
@@ -49,17 +49,16 @@ _A short description of the project, its purpose, and what tech was used._
 
 ## ✨ Fun Facts
 
-- 🌟 I enjoy [e.g., gaming, hiking, photography].
-- 🎯 My goal for this year is to [goal, e.g., contribute to five open-source projects, learn a new language].
-- 📚 My favorite book/podcast is [optional].
+- 🌟 I enjoy coffee, like really.
+- 🎯 My goal for this year is to achieve the best.
+- 📚 My favorite show is the dragon ball series.
 
 ---
 
 ## 📫 Let's Connect
 
-- 🌐 [Personal Website](https://your-website.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-username)
+- 💼 [LinkedIn](https://www.linkedin.com/in/reyesngsp/)
+- 🐦 [Instagram](https://instagram.com)
 
 ---
 
