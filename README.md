@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [Reyes]!
 
-![Header Image](https://i.imgur.com/ynYRG25.gif) <!-- Replace with your own banner image link -->
+![Header Image](https://i.imgur.com/q0ZtqKI.gif) <!-- Replace with your own banner image link -->
 
 Welcome to my GitHub profile! I'm a Information Technology / ARVR student at Singapore Polytechnic with a passion for Immersive Simulation Projects.
 
