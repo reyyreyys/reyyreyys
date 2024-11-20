@@ -50,9 +50,9 @@ Welcome to my GitHub profile! I'm a Information Technology / ARVR student at Sin
 
 ## 🌟 My GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=reyyreyys&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reyyreyys&layout=compact&theme=radical)
 
 ---
 
