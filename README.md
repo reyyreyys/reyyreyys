@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Reyes]!
+# 👋 Hi, I'm Reyes!
 
 ![Header Image](https://i.imgur.com/q0ZtqKI.gif) <!-- Replace with your own banner image link -->
 
